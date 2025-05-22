@@ -1,0 +1,52 @@
+:root{
+  --color-primary-cyan: hsl(185, 75%, 39%);
+  --color-primary-desaturated-blue: hsl(229, 23%, 23%);
+  --color-primary-grayish-blue: hsl(227, 10%, 46%);
+  --color-neutral-gray: hsl(0, 0%, 59%);
+  --fs-name-stats: 18px;
+  --f-weight-400: 400;
+  --f-weight-700: 700;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+   font-size: 11px; text-align: center; 
+}
+.attribution a {
+   color: hsl(228, 45%, 44%); 
+}
